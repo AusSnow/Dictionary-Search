@@ -2,7 +2,7 @@
 This program accepts a dictionary and text file as input and will check the entire file for misspellings using a hash table. The output will result in all words misspelled,
 words in dictionary, words in text file, and the time to load, check misspellings, unload memory, and check total runtime.
 # Usage
-To run this program start by executing "make speller" to compile all the files. After compiling the program try running "./speller dictionaries/large.csv texts/aca.txt" after
+To run this program start by executing "make speller" to compile all the files. After compiling the program try running "./speller dictionaries/large.csv texts/aca.txt", after
 running the program the output should contain 
 "
 Words Misspelled: 17062
